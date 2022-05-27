@@ -1,0 +1,280 @@
+ID Area: 0 Created
+Area 0: Entry car
+ID Area: 1 Created
+ID Area: 2 Created
+Area 2: Entry car
+Area 1: Entry car
+ID Area: 3 Created
+Area 0: Entry and exit car
+[+] ID user: 2 connected
+Area 0: Entry car
+[+] ID user: 3 connected
+Information by User 3: 
+Id Area	Capacity	SlotsAvaiable	Zone
+0	4	2	1
+1	3	2	2
+2	5	4	1
+3	2	2	2
+Area 2: Entry and exit car
+Information by User 2: 
+Id Area	Capacity	SlotsAvaiable	Zone
+0	4	2	1
+1	3	2	2
+2	5	4	1
+3	2	2	2
+Area 0: Entry and exit car
+Area 2: Entry car
+Area 1: Entry and exit car
+Area 0: Entry and exit car
+Information by User 3: 
+Id Area	Capacity	SlotsAvaiable	Zone
+0	4	2	1
+1	3	2	2
+2	5	3	1
+3	2	2	2
+Area 1: Exit car
+Area 0: Entry and exit car
+Area 2: Exit car
+Area 1: Entry car
+Area 2: Entry car
+Area 0: Entry and exit car
+Area 2: Exit car
+Area 1: Entry and exit car
+Area 3: Entry car
+Area 0: Entry car
+Information by User 3: 
+Id Area	Capacity	SlotsAvaiable	Zone
+0	4	1	1
+1	3	2	2
+2	5	4	1
+3	2	1	2
+Area 2: Entry and exit car
+Area 0: Entry and exit car
+Area 1: Entry and exit car
+Area 3: Entry and exit car
+Area 0: Exit car
+Area 1: Entry car
+Area 3: Entry car
+Area 2: Exit car
+Information by User 2: 
+Id Area	Capacity	SlotsAvaiable	Zone
+0	4	2	1
+1	3	1	2
+2	5	5	1
+3	2	0	2
+Area 0: Entry car
+Information by User 2: 
+Id Area	Capacity	SlotsAvaiable	Zone
+0	4	1	1
+1	3	1	2
+2	5	5	1
+3	2	0	2
+Area 2: Entry car
+Area 1: Entry car
+Area 0: Exit car
+Area 3: Entry car
+Area 1: Exit car
+Area 2: Entry and exit car
+Area 3: Entry and exit car
+Area 0: Entry and exit car
+Area 1: Entry car
+Area 3: Entry and exit car
+Area 2: Exit car
+Information by User 3: 
+Id Area	Capacity	SlotsAvaiable	Zone
+0	4	2	1
+1	3	0	2
+2	5	5	1
+3	2	-1	2
+Area 0: Entry car
+Area 1: Entry and exit car
+Area 3: Exit car
+Information by User 2: 
+Id Area	Capacity	SlotsAvaiable	Zone
+0	4	1	1
+1	3	0	2
+2	5	5	1
+3	2	0	2
+Area 1: Entry and exit car
+Area 0: Exit car
+Information by User 3: 
+Id Area	Capacity	SlotsAvaiable	Zone
+0	4	2	1
+1	3	0	2
+2	5	5	1
+3	2	0	2
+Area 0: Exit car
+Area 0: Entry car
+Area 2: Entry car
+Area 1: Exit car
+Area 3: Entry car
+Area 2: Entry car
+Area 1: Entry and exit car
+Information by User 2: 
+Id Area	Capacity	SlotsAvaiable	Zone
+0	4	2	1
+1	3	1	2
+2	5	3	1
+3	2	-1	2
+Area 0: Exit car
+Area 2: Exit car
+Information by User 2: 
+Id Area	Capacity	SlotsAvaiable	Zone
+0	4	3	1
+1	3	1	2
+2	5	4	1
+3	2	-1	2
+Area 0: Exit car
+Area 1: Exit car
+Information by User 3: 
+Id Area	Capacity	SlotsAvaiable	Zone
+0	4	4	1
+1	3	2	2
+2	5	4	1
+3	2	-1	2
+Area 3: Entry car
+Area 2: Entry and exit car
+Area 0: Entry car
+Area 0: Entry car
+Area 3: Exit car
+Information by User 2: 
+Id Area	Capacity	SlotsAvaiable	Zone
+0	4	2	1
+1	3	2	2
+2	5	4	1
+3	2	-1	2
+Area 2: Exit car
+Area 0: Entry and exit car
+Information by User 3: 
+Id Area	Capacity	SlotsAvaiable	Zone
+0	4	2	1
+1	3	2	2
+2	5	5	1
+3	2	-1	2
+Information by User 2: 
+Id Area	Capacity	SlotsAvaiable	Zone
+0	4	2	1
+1	3	2	2
+2	5	5	1
+3	2	-1	2
+Area 1: Entry car
+Area 3: Entry and exit car
+Area 1: Exit car
+Area 2: Entry car
+Area 0: Entry car
+Area 3: Entry and exit car
+Area 2: Entry car
+Information by User 2: 
+Id Area	Capacity	SlotsAvaiable	Zone
+0	4	1	1
+1	3	2	2
+2	5	3	1
+3	2	-1	2
+Area 1: Entry car
+Area 2: Exit car
+Area 0: Entry and exit car
+Area 2: Entry car
+Area 1: Exit car
+Area 3: Exit car
+Information by User 3: 
+Id Area	Capacity	SlotsAvaiable	Zone
+0	4	1	1
+1	3	2	2
+2	5	3	1
+3	2	0	2
+Area 3: Entry car
+Area 0: Entry and exit car
+Area 2: Exit car
+Area 3: Entry car
+Information by User 3: 
+Id Area	Capacity	SlotsAvaiable	Zone
+0	4	1	1
+1	3	2	2
+2	5	4	1
+3	2	-2	2
+Area 1: Entry and exit car
+Information by User 3: 
+Id Area	Capacity	SlotsAvaiable	Zone
+0	4	1	1
+1	3	2	2
+2	5	4	1
+3	2	-2	2
+Area 2: Entry and exit car
+Area 1: Entry car
+Area 2: Entry and exit car
+Information by User 2: 
+Id Area	Capacity	SlotsAvaiable	Zone
+0	4	1	1
+1	3	1	2
+2	5	4	1
+3	2	-2	2
+Area 1: Entry car
+Area 3: Exit car
+Area 1: Entry car
+Area 0: Entry and exit car
+Area 1: Exit car
+Area 3: Exit car
+Area 2: Entry and exit car
+Area 2: Entry car
+Area 0: Entry and exit car
+Area 1: Entry car
+Area 2: Entry and exit car
+Information by User 2: 
+Id Area	Capacity	SlotsAvaiable	Zone
+0	4	1	1
+1	3	-1	2
+2	5	3	1
+3	2	0	2
+Area 3: Entry car
+Area 2: Entry and exit car
+Information by User 2: 
+Id Area	Capacity	SlotsAvaiable	Zone
+0	4	1	1
+1	3	-1	2
+2	5	3	1
+3	2	-1	2
+Information by User 2: 
+Id Area	Capacity	SlotsAvaiable	Zone
+0	4	1	1
+1	3	-1	2
+2	5	3	1
+3	2	-1	2
+Area 3: Exit car
+Area 0: Exit car
+Area 1: Exit car
+Information by User 3: 
+Id Area	Capacity	SlotsAvaiable	Zone
+0	4	2	1
+1	3	0	2
+2	5	3	1
+3	2	0	2
+Area 1: Entry and exit car
+Area 3: Entry car
+Area 2: Entry and exit car
+Area 3: Exit car
+Area 1: Entry and exit car
+Area 2: Entry car
+Area 0: Entry car
+Area 3: Exit car
+Information by User 3: 
+Id Area	Capacity	SlotsAvaiable	Zone
+0	4	1	1
+1	3	0	2
+2	5	2	1
+3	2	1	2
+Information by User 2: 
+Id Area	Capacity	SlotsAvaiable	Zone
+0	4	1	1
+1	3	0	2
+2	5	2	1
+3	2	1	2
+Area 1: Entry car
+Area 2: Entry and exit car
+Area 3: Exit car
+Area 0: Entry car
+Information by User 3: 
+Id Area	Capacity	SlotsAvaiable	Zone
+0	4	0	1
+1	3	-1	2
+2	5	2	1
+3	2	2	2
